@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aakashsingh-7/DSA_solution/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
