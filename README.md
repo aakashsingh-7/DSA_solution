@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/aakashsingh-7/DSA_solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/aakashsingh-7/DSA_solution/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
