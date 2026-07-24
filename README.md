@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aakashsingh-7/DSA_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
 ## Divide and Conquer
 |  |
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/aakashsingh-7/DSA_solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
