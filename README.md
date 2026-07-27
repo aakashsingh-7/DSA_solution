@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
