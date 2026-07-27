@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aakashsingh-7/DSA_solution/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aakashsingh-7/DSA_solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aakashsingh-7/DSA_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
@@ -63,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
