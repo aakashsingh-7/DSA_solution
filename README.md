@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aakashsingh-7/DSA_solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/aakashsingh-7/DSA_solution/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aakashsingh-7/DSA_solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
