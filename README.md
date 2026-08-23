@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/aakashsingh-7/DSA_solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aakashsingh-7/DSA_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aakashsingh-7/DSA_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aakashsingh-7/DSA_solution/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aakashsingh-7/DSA_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Merge Sort
 |  |
