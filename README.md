@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aakashsingh-7/DSA_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
+| [0260-single-number-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0260-single-number-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/aakashsingh-7/DSA_solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aakashsingh-7/DSA_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
