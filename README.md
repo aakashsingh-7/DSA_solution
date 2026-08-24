@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/aakashsingh-7/DSA_solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/aakashsingh-7/DSA_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aakashsingh-7/DSA_solution/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/aakashsingh-7/DSA_solution/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aakashsingh-7/DSA_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Merge Sort
 |  |
