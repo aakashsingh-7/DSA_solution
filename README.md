@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aakashsingh-7/DSA_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0260-single-number-iii) |
+| [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -152,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aakashsingh-7/DSA_solution/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
