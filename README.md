@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/aakashsingh-7/DSA_solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aakashsingh-7/DSA_solution/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/aakashsingh-7/DSA_solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/aakashsingh-7/DSA_solution/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aakashsingh-7/DSA_solution/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aakashsingh-7/DSA_solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aakashsingh-7/DSA_solution/tree/master/0860-lemonade-change) |
 ## Quicksort
