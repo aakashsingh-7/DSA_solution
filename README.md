@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/aakashsingh-7/DSA_solution/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/aakashsingh-7/DSA_solution/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakashsingh-7/DSA_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/aakashsingh-7/DSA_solution/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/aakashsingh-7/DSA_solution/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/aakashsingh-7/DSA_solution/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
