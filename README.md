@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aakashsingh-7/DSA_solution/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aakashsingh-7/DSA_solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aakashsingh-7/DSA_solution/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/aakashsingh-7/DSA_solution/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aakashsingh-7/DSA_solution/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
