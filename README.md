@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aakashsingh-7/DSA_solution/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/aakashsingh-7/DSA_solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aakashsingh-7/DSA_solution/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakashsingh-7/DSA_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/aakashsingh-7/DSA_solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aakashsingh-7/DSA_solution/tree/master/0137-single-number-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakashsingh-7/DSA_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/aakashsingh-7/DSA_solution/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
 ## Floyd's Cycle Finding Algorithm
@@ -179,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/aakashsingh-7/DSA_solution/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakashsingh-7/DSA_solution/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/aakashsingh-7/DSA_solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
